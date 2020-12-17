@@ -1,2 +1,2 @@
-# My Portfolio Demo Repo
-This repo is my porfolio demo
+# My Portfolio 
+This repo is my porfolio as a Junior games programmer
