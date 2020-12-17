@@ -1,1 +1,2 @@
-# skunity101.github.io
+# My Portfolio Demo Repo
+This repo is my porfolio demo
